@@ -1,0 +1,7 @@
+
+OPEN CV thresholding
+	https://docs.opencv.org/3.2.0/d7/d4d/tutorial_py_thresholding.html
+
+	HAS VIDEO:
+	https://pythonprogramming.net/thresholding-image-analysis-python-opencv-tutorial/
+
