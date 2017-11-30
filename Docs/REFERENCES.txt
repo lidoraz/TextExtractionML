@@ -5,3 +5,9 @@ OPEN CV thresholding
 	HAS VIDEO:
 	https://pythonprogramming.net/thresholding-image-analysis-python-opencv-tutorial/
 
+
+Using neural network to recognize hand written text.
+(17) Digit recognition with neural network - YouTube
+https://github.com/joeledenberg/DigitRecognition
+
+https://stackoverflow.com/questions/15686149/extracting-lines-from-an-image-to-feed-to-ocr-tesseract
